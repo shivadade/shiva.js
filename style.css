@@ -1,5 +1,5 @@
 .heading{
-   backgrond-color:yellow;
+   color:yellow;
 }
 .body{
     background-color:rgb(0, 255, 34);
@@ -7,5 +7,5 @@
 #countDown{
     text-align:center;
     margin-top:25%;
-    font-size:100px;
+    font-size:300px;
 }  
